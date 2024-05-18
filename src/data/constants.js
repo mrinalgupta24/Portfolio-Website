@@ -5,8 +5,8 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/mrinalgupta24",
   resume:
-    "https://drive.google.com/file/d/1gef5fE15zNqItXhoRIvxVID7gMy-OX55/view?usp=sharing",
-  linkedin: "www.linkedin.com/in/mrinal-gupta24",
+    "https://drive.google.com/file/d/1pjXgZfJAXcLtql7wSNX2H1Drdq38hmrk/view?usp=sharing",
+  linkedin: "https://www.linkedin.com/in/mrinal-gupta-469915236/",
   twitter: "https://twitter.com/MrinalGupta24",
   insta: "https://www.instagram.com/mrinalgupta24/",
 };
@@ -76,10 +76,6 @@ export const skills = [
       {
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
-      },
-      {
-        name: "PHP",
-        image: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAllBMVEUAAABPW5NPW5NPW5NPW5NPW5NPW5NPW5NfaJtSXpVsdaD8/f1bZZmcoLr////r6/FkbZxocZ6+wdHX2eJNWpPy8/b19vi6vc7b3OX4+PrO0NxWYZbDxdT6+/zf4Oju7/Ohpb3j5Ovq6u/l5uxgapukqMCQlbOrr8TU1eCAhqp0fKSws8eFi62Vmra3uszR097KzNlPW5OhRzWhAAAAMnRSTlMAKbH0//Cw8///////////////////////////////////////////////////////KIExa5sAAAEmSURBVHgBvNBFYsNAEERRQZkGyhaamdn3P11aGFZ2+RvR05DjuJ6PX/I9V7630FDLdTw01nZ8NNZx8Ef/D7rdXiNQWptGYNnHT2AQBMGgByBkVNyYQDJxCeKEUjoERpTGkylmlOYjVQBFjhZLcoWE68Umu1lwM9pqRgWwXAJYcBJQ7yBqH6c8AEeOezkIM4kTJ7LGGNM5zxfSALYCI8r08ZLXkCfgxvF0xX7+4xZw8jXegT3nwYgP4Mp1POMTUAmvAoo1RhvyKFJmnvCVrTFaz7no5cBS0v19Jg3iDY9IKaUvgxzIGpXqxsBUBQACNb1QX9SgPsl85k/JGsXXYKnv+NxMP9+GiAtsUczDIU3fJEcAEMw4BLMeocxrCMzebOw4zWdjZAAA/C0gQeTDrEQAAAAASUVORK5CYII=",
       },
     ],
   },
@@ -229,18 +225,6 @@ export const projects = [
         linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
         github: "https://github.com/GJG-GUNDO",
       },
-      // {
-      //   name: "Karan Bharadwaj",
-      //   img: "https://avatars.githubusercontent.com/u/93857706?v=4",
-      //   linkedin: "https://www.linkedin.com/in/karan-bhardwaj-13ba921bb/",
-      //   github: "https://github.com/karanbhardwaj02",
-      // },
-      // {
-      //   name: "Mohd Zaid",
-      //   // img: "https://avatars.githubusercontent.com/u/91524314?v=4",
-      //   linkedin: "https://www.linkedin.com/in/zaidmstrr",
-      //   github: "https://github.com/zaidmstrr",
-      // },
     ],
   },
   {
@@ -250,11 +234,11 @@ export const projects = [
     description:
       "The project aims to consolidate essential information about monuments and heritage sites in one place. Additionally, visitors will receive a QR-based E-Ticket, facilitating entry and exit at the monument. Your role involved leading a team of two members, and the technology stack includes HTML, CSS, JavaScript, PHP, and MySQL.",
     image:
-      "https://github.com/mrinalgupta24/Monumatic-Web-App/blob/main/monumatic.png?raw=true",
+      "https://github.com/mrinalgupta24/Monumatic/blob/master/monumatic.png?raw=true",
     tags: ["HTML", "CSS", "Javascript", "PHP", "MySQL"],
     category: "web app",
     github: "https://github.com/mrinalgupta24/Monumatic-Web-App",
-    webapp: "https://monumatic.3rimaging.com/",
+    webapp: "https://monumatic.tech/",
     member: [
         {
           name: "Mrinal Gupta",
