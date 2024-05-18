@@ -6,7 +6,7 @@ export const Bio = {
   github: "https://github.com/mrinalgupta24",
   resume:
     "https://drive.google.com/file/d/1gef5fE15zNqItXhoRIvxVID7gMy-OX55/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/mrinal-gupta-469915236/",
+  linkedin: "www.linkedin.com/in/mrinal-gupta24",
   twitter: "https://twitter.com/MrinalGupta24",
   insta: "https://www.instagram.com/mrinalgupta24/",
 };
