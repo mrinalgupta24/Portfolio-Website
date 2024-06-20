@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/mrinalgupta24",
   resume:
-    "https://drive.google.com/file/d/1pjXgZfJAXcLtql7wSNX2H1Drdq38hmrk/view?usp=sharing",
+    "https://drive.google.com/file/d/1TGx3QwH-oe5ItIVoW40EjPnx2_kBZx2v/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/mrinal-gupta-469915236/",
   twitter: "https://twitter.com/MrinalGupta24",
   insta: "https://www.instagram.com/mrinalgupta24/",
