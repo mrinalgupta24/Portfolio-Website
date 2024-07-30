@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/mrinalgupta24",
   resume:
-    "https://drive.google.com/file/d/177mtmLi2sHoQrKvSyHQ_KjCfLvm0oq00/view?usp=sharing",
+    "https://drive.google.com/file/d/1LxP34CWb0eNgm1Y4ITrYppLJY-JptgQ0/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/mrinal-gupta-469915236/",
   twitter: "https://twitter.com/MrinalGupta24",
   insta: "https://www.instagram.com/mrinalgupta24/",
@@ -147,8 +147,19 @@ export const skills = [
 ];
 
 export const experiences = [
+
   {
     id: 0,
+    img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAllBMVEVHcEy1Kx5gFg/HLyIAAAAmDgw5FhPMMSMDAAAAAACmJxzKMiUAAACmIhXSOi3TNCakKB13HBQAAADNPzPKMSPVOSzTNym7NCi3Kx7UMyTSMiT////SMySOBwC8LB/RIgzODgDSLR2eJhvqsK3s2dicDgPFmJbVX1fYu7mwKByuEAG5fHmoWlXadW/EJxbhnZnUqKbCSEAIWku/AAAAGXRSTlMA2ZvvSwcU/iU7wcVc7lynoW12KeBxhz1H4fs5bAAAAcRJREFUOI2VU9t24jAMzN024dBCga5lJSFAGpJ02e7//9xKshPa7tmHnYecwIzk0ViJov/By+ZwPB5e/8U+IYAFQMBy8zddlECch7WA3yUHpGIUCYBIyy/8EwgbeP9UxWfe00T5N375pNjMxVIqGrGzD3wuf7VNQOut8EjPiwGApr8E9K2fhVVaBuSK9qeb8bsVLwzf4sjS03URVGqZBRW32LOvk3PXyuO85EGRbUnAyrZ37qM6M7rxFNCQgM54YUHzy7lpUIT7w8ylQbsqoh8YLHS1ZellEUx3tLFmAYiFTsm4H7fbjX7R81yL4DVYuI1+/K6qJufe2a2iI3SkOcV+6dsPw0gdqmEYahBBzmOPSwydQn+ehGmTIspLCq6upjfB1Clu9zaCD2KXR9GWzMPQhZgG4JHfa8nSxhkFpVO+zTpAYXMNcVNOCUddcAu0YR8xjMxFNl7zzuS6tPMahZHJgtzGzviFNum8I/y4k5PaH5CFpdNZamcasaYb4xNsstbzzulsb3FeS6ArIxqJz+etzY15Bhu+Cf/pxLvswXMPk62UtTIPIU7WX3hSFMZk21Wcpmm8SnbrzBTRN1AT0ngY8yj/A7auTo2cbq/6AAAAAElFTkSuQmCC",
+    role: "Frontend Developer Intern",
+    company: "Celebal Technologies",
+    date: "May 2024 - July 2024",
+    desc: "Developed a ReactJS-based interface for shipment management, enhancing security and reducing unauthorized access",
+    skills: ["ReactJS"],
+    //   doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+  },
+  {
+    id: 1,
     img: "https://suvidhafoundationedutech.org/img/favicon.jpg",
     role: "Web Developer Intern",
     company: "Suvidha Foundation",
@@ -156,7 +167,7 @@ export const experiences = [
     desc: "Worked as a lead developer, managing and maintaining a fully functional and responsive website with my team.",
     skills: ["HTML", "CSS", "Javascript"],
     //   doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
-  },
+  }
 ];
 
 export const education = [
@@ -238,7 +249,7 @@ export const projects = [
     tags: ["HTML", "CSS", "Javascript", "PHP", "MySQL"],
     category: "web app",
     github: "https://github.com/mrinalgupta24/Monumatic-Web-App",
-    webapp: "https://monumatic.tech/",
+    webapp: "https://monumatic.3rimaging.com/",
     member: [
         {
           name: "Mrinal Gupta",
